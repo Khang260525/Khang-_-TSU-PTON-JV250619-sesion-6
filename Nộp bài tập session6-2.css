@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+
+
+.nd { 
+    height: 320px;
+    width: 200px;
+    border: 20px solid rgb(240, 237, 237);    
+    padding: 5px;
+    background: rgb(240, 237, 237); 
+}
+
+.nd2 {
+  background: rgb(255, 255, 255);
+  border-radius: 10px;
+  padding: 20px;
+}
+.dk{
+    width: 170px;
+    
+    padding: 8px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(84, 84, 229);
+    border-radius: 5px;
+}
+.su{
+    text-align: center;
+}
