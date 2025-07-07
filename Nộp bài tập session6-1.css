@@ -1,0 +1,36 @@
+.text {
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+}
+
+.text1 {
+    word-spacing: 30px;
+
+}
+
+.text3 {
+
+
+    position: relative;
+    left: 160px;
+    bottom: 110px;
+    width: 500px;
+
+
+
+
+}
+
+.hinh1 {
+    border-radius: 50%;
+}
+
+.text4 {
+    background-color: darkgrey;
+    height: 50px;
+
+    text-align: center;
+    line-height: 50px;
+}
