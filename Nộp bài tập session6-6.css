@@ -1,0 +1,49 @@
+a{text-decoration: none;}
+.nd1{
+    border: 1px solid rgb(86, 79, 68);
+    width: 500px;
+    
+}
+h1{
+   
+    border-left: 10px solid rgb(238, 125, 5);
+    padding-left: 10px;    
+}
+.img{
+    width: 100%;
+    height: 700px;
+    box-sizing: border-box;
+    
+    
+    
+    background-image: linear-gradient( 180deg, rgba(255, 255, 255, 0.1), rgba( 0, 0, 0, 1)) ,
+
+    url( https://kenh14cdn.com/thumb_w/660/203336854389633024/2023/10/7/photo-20-1696642193902588522913.jpg
+    );
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.uu{
+    box-sizing: border-box;
+    padding-top: 500px;
+    padding-right: 50px;
+    padding-left: 50px;
+    color: aliceblue;
+    text-align: left;
+    font-size: 30px;
+}
+.ttt{
+    background-color: rgb(222, 219, 215);
+    padding-top: 60px;
+}
+.bbb{
+    position: relative;
+    bottom: 300px;
+    left: 520px;
+    width: 1000px;
+}
+
+
+    
+
