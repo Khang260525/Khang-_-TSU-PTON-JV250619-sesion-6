@@ -1,0 +1,60 @@
+.nd1 {
+    height: 100px;
+    width: 100%;
+    background-color: #257e47;
+}
+
+.nd2 {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 95px;
+
+    display: inline;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    left: 660px;
+}
+
+.nd3 {
+    display: inline;
+    color: #ffffff;
+    font-weight: bolder;
+    word-spacing: 20px;
+    text-align: center;
+
+    position: relative;
+    top: 30px;
+    left: 500px;
+
+
+}
+
+.p1 {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.x1 {
+    background-color: antiquewhite;
+    width: 300px;
+    height: 900px;
+    border: 1px solid rgb(173, 166, 166);
+}
+.x2{
+    
+    height: 300px;
+    position: relative;
+    bottom: 900px;
+    left: 350px
+    
+
+}
+.h3{ background-color: rgb(114, 109, 109) ;
+height: 50px;
+text-align: center;
+line-height: 50px;
+position: relative;
+bottom: 320px;
+}
