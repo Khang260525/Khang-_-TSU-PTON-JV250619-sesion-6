@@ -1,0 +1,44 @@
+.n1{
+    background-color: rgb(36, 122, 94);
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: aliceblue;
+    
+}
+
+.h3{
+  word-spacing: 20px;
+   margin-left: 1000px;
+   
+}
+.j{
+    background-color: rgb(239, 238, 236);
+    text-align: center;
+    padding: 10px;
+}
+button{
+    background-color: rgb(80, 147, 115);
+    color: aliceblue;
+    height: 40px;
+    border-radius: 5px;
+}
+.j2{padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.j3{
+    
+    background-color: rgb(197, 195, 190);
+    width: 280px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 5px;
+}
+.o{
+    background-color: rgb(80, 78, 78);
+    color: aliceblue;
+    text-align: center;
+    padding: 2px;
+}
